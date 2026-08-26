@@ -97,9 +97,8 @@ A satisfaction score of **3** has the highest number of patients in the dataset.
 * The overall recovery rate is **32.3%**.
 
 ##  Dashboard Preview
-
-![Hospital Management Dashboard](Dashboard/Screenshot%202026-08-25%20195600.png)
-
+![Hospital Management Dashboard](Screenshot%202026-08-25%20195600.png)
+!
 ## Project Outcome
 
 This project demonstrates how Python-based exploratory data analysis and visualization can be used to transform hospital data into meaningful business insights.
