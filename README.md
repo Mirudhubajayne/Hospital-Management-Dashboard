@@ -86,7 +86,7 @@ A satisfaction score of **3** has the highest number of patients in the dataset.
 * KDE Plot
 * Box Plot
 
-## 💡\ Key Insights
+##  Key Insights
 
 * The dataset contains **1,500 patients**.
 * Patient distribution between males and females is relatively balanced.
